@@ -1,0 +1,1 @@
+This is a new file that needs to be added to last commit using amend
